@@ -1,8 +1,9 @@
+
 langgraph
 langchain
 langchain-core
 langchain-groq
-langchai-huggingface
+langchain-huggingface
 langchain-pinecone
 langchain-community
 langchain-text-splitters
